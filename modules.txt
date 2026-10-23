@@ -1,0 +1,10 @@
+pip install jupyter==1.0.0
+pip install jupyter-client==7.4.9
+pip install jupyter-console==6.6.3
+pip install jupyter-core==4.12.0
+pip install jupyter-server==1.24.0
+pip install jupyterlab-widgets==3.0.9
+pip install jupyterlab-pygments==0.2.2
+pip install ipython==7.9.0
+pip install ipython-genutils==0.2.0
+pip install ipykernel==6.5.0
